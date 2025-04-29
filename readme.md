@@ -1,0 +1,1 @@
+#added npx  @eslint/migrate-config .eslintrc.json 
